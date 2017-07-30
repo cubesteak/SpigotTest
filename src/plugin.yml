@@ -1,0 +1,4 @@
+name: SpigotTest
+version: 0.1
+author: cubesteak
+main: net.cubesteak.mcsp.SpigotTest.Main
